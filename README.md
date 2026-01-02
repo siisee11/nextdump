@@ -2,6 +2,10 @@
   <img src="public/icon.svg" alt="Web Crawler Service icon" width="140" />
 </p>
 
+<p align="center">
+  <video src="public/nextdump-demo.mov" width="600" controls></video>
+</p>
+
 # Web Crawler Service
 
 Web app for analyzing and crawling websites, with results delivered to a user-provided PostgreSQL database. The current build focuses on AI-driven site analysis and report generation; full crawl-to-DB flow is tracked in the PRD roadmap.
